@@ -1,0 +1,121 @@
+{
+	"rides": {
+		"total_count": 10,
+		"currentrides": [
+			{
+				"ride_id": 1000,
+				"Passenger": {
+					"first_name": "Navneeth",
+					"last_name": "G",
+					"phone_number": 123456789
+				},
+				"status": "accepted",
+				"ETA": 71000
+			},
+			{
+				"ride_id": 1001,
+				"Passenger": {
+					"first_name": "Jhon",
+					"last_name": "S",
+					"phone_number": 123456789
+				},
+				"status": "Cancelled",
+				"canceled_by": "driver",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1002,
+				"Passenger": {
+					"first_name": "Satish",
+					"last_name": "B",
+					"phone_number": 123456789
+				},
+				"status": "Pending",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1003,
+				"Passenger": {
+					"first_name": "William",
+					"last_name": "Z",
+					"phone_number": 123456789
+				},
+				"status": "Dropped off",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1004,
+				"Passenger": {
+					"first_name": "Abram",
+					"last_name": "G",
+					"phone_number": 123456789
+				},
+				"status": "Arrived",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1005,
+				"Passenger": {
+					"first_name": "Sahas",
+					"last_name": "B",
+					"phone_number": 123456789
+				},
+				"status": "Picked up",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1006,
+				"Passenger": {
+					"first_name": "Naveen",
+					"last_name": "B",
+					"phone_number": 123456789
+				},
+				"status": "Cancelled",
+				"canceled_by": "dispatcher",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1007,
+				"Passenger": {
+					"first_name": "Borris",
+					"last_name": "B",
+					"phone_number": 123456789
+				},
+				"status": "Failed",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1008,
+				"Passenger": {
+					"first_name": "Virat",
+					"last_name": "K",
+					"phone_number": 123456789
+				},
+				"status": "Cancelled",
+				"canceled_by": "No drivers available",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1009,
+				"Passenger": {
+					"first_name": "Rohit",
+					"last_name": "S",
+					"phone_number": 123456789
+				},
+				"status": "Cancelled",
+				"canceled_by": "Passenger no show",
+				"ETA": ""
+			},
+			{
+				"ride_id": 1010,
+				"Passenger": {
+					"first_name": "Bhuvi",
+					"last_name": "K",
+					"phone_number": 123456789
+				},
+				"status": "Unknown",
+				"ETA": ""
+			}
+		]
+	}
+}
